@@ -1,6 +1,6 @@
 # Hi, I'm Mouheb Jouili
 
-Final-year Telecommunications Engineering student at **ENET’com, Tunisia**, seeking a **4+ month graduation internship (PFE) starting in February 2027** in Europe or Canada.
+Final-year Telecommunications Engineering student at **ENET’com, Tunisia**, seeking a **4+ month graduation internship (PFE) starting in February 2027**.
 
 My main interests are **AI Security, cybersecurity, AI engineering, cloud security, and secure full-stack systems**.
 
